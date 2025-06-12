@@ -1,4 +1,8 @@
-https://ex4.pages.dev
+https://tin.みんな/
+
+hello, I am a web developer and designer with background in Seismology and Meteorology. My favorite singer is Mac Miller.
+
+Ongoing project: https://github.com/pickingname/qualos
 
 ---
 
